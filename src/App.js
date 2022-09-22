@@ -5,6 +5,7 @@ import Login from './pages/Login';
 import NavBar from './pages/NavBar';
 import Register from './pages/Register';
 
+
 function App() {
   return (
     <Router>
